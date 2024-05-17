@@ -1,0 +1,10 @@
+{
+    "tokenizer": "/mnt/neimeng/nlp/projects/pretrain/xingjin/Emu/Emu2/checkpoint/tokenizer",
+    "multimodal_encoder": "/mnt/neimeng/nlp/projects/pretrain/xingjin/Emu/Emu2/checkpoint/multimodal_encoder",
+    "scheduler": "/mnt/neimeng/nlp/projects/pretrain/xingjin/Emu/Emu2/checkpoint/scheduler",
+    "unet": "/mnt/neimeng/nlp/projects/pretrain/xingjin/Emu/Emu2/checkpoint/unet",
+    "vae": "/mnt/neimeng/nlp/projects/pretrain/xingjin/Emu/Emu2/checkpoint/vae",
+    "feature_extractor": "/mnt/neimeng/nlp/projects/pretrain/xingjin/Emu/Emu2/checkpoint/feature_extractor",
+    "safety_checker": "/mnt/neimeng/nlp/projects/pretrain/xingjin/Emu/Emu2/checkpoint/safety_checker"
+}
+  
